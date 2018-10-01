@@ -3,7 +3,7 @@ Deep learning based HFO Detector as described in Bernardo et al.
 
 
 ## Example of High-Frequency Oscillation
-![hfo example](https://raw.githubusercontent.com/dbernardo05/DHFOD/hfo_example_small.png)
+![hfo example](https://raw.githubusercontent.com/dbernardo05/DHFOD/hfo_example_small.jpeg)
 
 
 ## Detector Design
